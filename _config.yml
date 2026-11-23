@@ -1,5 +1,17 @@
+title: Physics 21
+description: Physics 21 Course Materials
+
+url: "https://tramosaurus.github.io"
+baseurl: "/physics-21"
+
 remote_theme: tramosaurus/teaching-template
 
 plugins:
   - jekyll-remote-theme
   - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+markdown: kramdown
