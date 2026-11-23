@@ -12,6 +12,8 @@ author: "T. Dang"
 ol { list-style-type: upper-alpha; }
 </style>
 
+{% endif %}
+
 Answers are for problems assigned from the following resource:
 
 {{ site.e21 }}
