@@ -1,13 +1,5 @@
+remote_theme: tramosaurus/teaching-template
+
 plugins:
-  - jekyll-relative-links
   - jekyll-remote-theme
-
-relative_links:
-  enabled: true
-  collections: true
-
-remote-theme: tramosaurus/tramosaurus.github.io
-
-fixme: "![Fix Me!](/assets/img/fixme.svg)"
-
-e21: "Ulaby, F., Maharbiz, M., & Furse, C. (2025). _Circuit Analysis and Design._ No Imprint. <https://doi.org/10.3998/mpub.13162125>"
+  - jekyll-relative-links
