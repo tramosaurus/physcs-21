@@ -4,19 +4,9 @@ date: "2026-11-19"
 author: "T. Dang"
 ---
 
-<script defer src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js"></script>
-
-{% if page.title contains "Answers" %}
-
-<style type="text/css">
-ol { list-style-type: upper-alpha; }
-</style>
-
-{% endif %}
-
 Answers are for problems assigned from the following resource:
 
-{{ site.e21 }}
+{{ textbook }}
 
 ## Homework Answers
 
