@@ -6,7 +6,7 @@ author: "T. Dang"
 
 Answers are for problems assigned from the following resource:
 
-{{ textbook }}
+{{ site.textbook }}
 
 ## Homework Answers
 
