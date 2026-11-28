@@ -1,5 +1,5 @@
 ---
-title: "ENGR 21 - Chapter 6 Homework Answers"
+title: "PHYSCS 21 - Chapter 6 Homework Answers"
 date: "2026-11-19"
 author: "T. Dang"
 ---
